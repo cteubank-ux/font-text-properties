@@ -44,10 +44,11 @@
 
 
 body{
-	/* set the font family to Lato, Arial, sans-serif (--body-fonts) */
-	/* Set the line height to 1.5 */
-	/* set the font size to 1.1rem	*/
-	/* set the font color to #222 (--dk-gray) */
+body {
+    font-family: Lato, Arial, sans-serif;
+    line-height: 1.5;
+    font-size: 1.1rem;
+    color: #222; /* --dk-gray */
 	margin: 0;
 	padding: 0;
 }
